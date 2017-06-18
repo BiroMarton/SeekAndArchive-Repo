@@ -1,0 +1,5 @@
+D:\GitRepo\SeekAndArchive-Repo\IsolatedStorageDemo\IsolatedStorageDemo\obj\Debug\IsolatedStorageDemo.exe
+D:\GitRepo\SeekAndArchive-Repo\IsolatedStorageDemo\IsolatedStorageDemo\obj\Debug\IsolatedStorageDemo.pdb
+D:\GitRepo\SeekAndArchive-Repo\IsolatedStorageDemo\IsolatedStorageDemo\bin\Debug\IsolatedStorageDemo.exe.config
+D:\GitRepo\SeekAndArchive-Repo\IsolatedStorageDemo\IsolatedStorageDemo\bin\Debug\IsolatedStorageDemo.exe
+D:\GitRepo\SeekAndArchive-Repo\IsolatedStorageDemo\IsolatedStorageDemo\bin\Debug\IsolatedStorageDemo.pdb
