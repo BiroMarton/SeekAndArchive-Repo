@@ -1,0 +1,6 @@
+D:\GitRepo\SeekAndArchive-Repo\SeekAndArchive\SeekAndArchive\bin\Debug\SeekAndArchive.exe.config
+D:\GitRepo\SeekAndArchive-Repo\SeekAndArchive\SeekAndArchive\bin\Debug\SeekAndArchive.exe
+D:\GitRepo\SeekAndArchive-Repo\SeekAndArchive\SeekAndArchive\bin\Debug\SeekAndArchive.pdb
+D:\GitRepo\SeekAndArchive-Repo\SeekAndArchive\SeekAndArchive\obj\Debug\SeekAndArchive.csprojResolveAssemblyReference.cache
+D:\GitRepo\SeekAndArchive-Repo\SeekAndArchive\SeekAndArchive\obj\Debug\SeekAndArchive.exe
+D:\GitRepo\SeekAndArchive-Repo\SeekAndArchive\SeekAndArchive\obj\Debug\SeekAndArchive.pdb
